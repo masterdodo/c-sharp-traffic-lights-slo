@@ -1,0 +1,18 @@
+1:--{3 sekunde}
+avti - rdeèa
+pešci - rdeèa
+2:--{1 sekunda}
+avti - rdeèa,rumena
+pešci - rdeèa
+3:--{30 sekund}
+avti - zelena
+pešci - rdeèa
+4:--{1 sekunda}
+avti - rumena
+pešci - rdeèa
+5:--{3 sekunde}
+avti - rdeèa
+pešci - rdeèa
+6:--{10 sekund}
+avti - rdeèa
+pešci - zelena
